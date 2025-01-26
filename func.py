@@ -1,2 +1,2 @@
 def handler(context,event):
-  return "ok:
+  return "ok"
