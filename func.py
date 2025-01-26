@@ -8,4 +8,4 @@ def handler(context,event):
 
 
 
-handler("A","B")
+
